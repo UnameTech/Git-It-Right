@@ -43,7 +43,7 @@ git add file1
 - The `git add` command **moves the file to the Staging Area**.
 - This is like telling Git: _“I’m ready to commit this version of the file.”_
 
-🧠 Git takes a **snapshot** of `file1` and stores it temporarily in the Staging Area (also known as the Index).
+ Git takes a **snapshot** of `file1` and stores it temporarily in the Staging Area (also known as the Index).
 
 ```bash
 git status
