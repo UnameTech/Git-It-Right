@@ -4,7 +4,7 @@
 
 ---
 
-## 🔹 **0.1 Why Version Control Systems Matter**
+##  **0.1 Why Version Control Systems Matter**
 
 ###  **Concept:**
 Version Control Systems (VCS) are tools that help manage and track changes to files—primarily code—in a systematic way. They record who made a change, what was changed, when it was changed, and why it was changed.
