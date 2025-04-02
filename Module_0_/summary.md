@@ -83,7 +83,7 @@ Let’s say you're building a food delivery app:
 
 ---
 
-### 🔹 **What We Learned:**
+###  **What We Learned:**
 
 ####  **Why Version Control Systems Matter**
 - Developers like Arjun often lose hours of work without a way to revert.
