@@ -63,7 +63,7 @@ In Git, **every developer has a full copy of the codebase, including its history
 
 ---
 
-### ⚖️ Comparison Table
+###  Comparison Table
 
 | Feature                         | Manual Backup | SVN (Centralized VCS) | Git (Distributed VCS) |
 |-------------------------------|---------------|------------------------|------------------------|
