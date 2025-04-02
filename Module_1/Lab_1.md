@@ -202,7 +202,7 @@ Sample Output:
 
 ##  Use Cases of `.gitconfig`
 
-### 🔹 1. **Identity Management**
+###  1. **Identity Management**
 Set your global name and email for all Git commits:
 ```ini
 [user]
