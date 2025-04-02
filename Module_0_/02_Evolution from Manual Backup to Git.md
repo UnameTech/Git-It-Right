@@ -1,7 +1,7 @@
 
 ---
 
-## 🔹 **0.2 Evolution from Manual Backup to Git**
+##  **0.2 Evolution from Manual Backup to Git**
 
 Let’s go back to Arjun.
 
