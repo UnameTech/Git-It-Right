@@ -113,10 +113,10 @@ git --version
 
 | Task | Status |
 |------|--------|
-| Installed Git on your OS  |  /  |
-| Verified version using `git --version` |  /  |
-| Opened Git Bash or Terminal |  /  |
-| Explored where Git was installed (`which git`) |  /  |
+| Installed Git on your OS  |  YES |
+| Verified version using `git --version` |  YES  |
+| Opened Git Bash or Terminal |  YES  |
+| Explored where Git was installed (`which git`) |  YES  |
 
 ---
 
